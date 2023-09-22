@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* .cat {
+  width: 300px;
+  border: 2px solid red;
+} */
+
+.card > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  width: 250px;
+  padding: 1rem;
+  color: black;
+  border-radius: 1rem;
+}
+/* 
+.card.hobbies {
+  background-color: lightgreen;
+}
+
+.card.food {
+  background-color: lightcoral;
+}
+
+.card.stack {
+  background-color: lightblue;
+} */
+
+
+
